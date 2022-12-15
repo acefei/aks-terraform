@@ -1,0 +1,10 @@
+.terraform/
+module_version.tf
+terraform.tfstate*
+*.swp
+*.swo
+terraform.tfvars
+backend.tf
+*lock.hcl
+*.orig
+test.env
